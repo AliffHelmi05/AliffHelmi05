@@ -38,7 +38,7 @@
 <h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,photoshop,html,css,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,photoshop,html,vscode,github" />
 </p>
 
 ---
