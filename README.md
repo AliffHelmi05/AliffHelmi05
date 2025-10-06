@@ -1,75 +1,73 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Muhammad Aliff Bin Helmi</h1>
-<h3 align="center">🎓 Data Engineering Student | Universiti Teknologi Malaysia (UTM)</h3>
-<h4 align="center">Passionate about managing data, learning frontend development, and building creative digital solutions.</h4>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Aliff+Bin+Helmi;Data+Engineering+Student+at+UTM;Aspiring+Data+Engineer+%7C+Frontend+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌱 About Me  
+<h2 align="center">🌱 About Me</h2>
 
-- 🏡 From **Kedah, Malaysia**  
-- ⚔️ I love playing **video games** in my free time  
+- 🏡 **From:** Kedah, Malaysia  
+- ⚔️ **Hobby:** Playing video games  
 - 🎂 **Birthday:** 13 December  
-- 📚 **Currently Studying:**  
+- 🎓 **Currently Studying:**
   - Digital Logic  
   - Discrete Structure  
   - Programming Language  
   - Technology & Information Systems  
-- 💻 **Currently Learning:**  
+- 🧠 **Learning:**
   - C++  
   - Python  
   - JavaScript  
-- 📫 Reach me at: **aliffhelmi05@gmail.com**
+- 📫 **Reach me at:** [aliffhelmi05@gmail.com](mailto:aliffhelmi05@gmail.com)
 
 ---
 
-### 🎓 Education  
+<h2 align="center">🎓 Education Background</h2>
 
-- **Primary School:** Sekolah Kebangsaan Darulaman Heights  
-- **Secondary School:** Sekolah Menengah Sultan Abdul Halim  
-- **Foundation:** Kolej MARA Kuala Nerang  
-- **Bachelor’s Degree:** Universiti Teknologi Malaysia (Data Engineering)  
-
----
-
-### 🤝 Connect with Me  
-
-<p align="left">
-<a href="https://instagram.com/koyajoestar" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30"/>
-</a>
-<a href="https://discord.gg/keyunah" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="30"/>
-</a>
-</p>
+| Level | Institution |
+|--------|-------------|
+| 🏫 Primary | Sekolah Kebangsaan Darulaman Heights |
+| 🏫 Secondary | Sekolah Menengah Sultan Abdul Halim |
+| 🎓 Foundation | Kolej MARA Kuala Nerang |
+| 🎓 Bachelor’s | Universiti Teknologi Malaysia (Data Engineering) |
 
 ---
 
-### 🛠️ Languages & Tools  
-
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
+<h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&theme=tokyonight" alt="aliffhelmi05" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,photoshop,html,css,vscode,github" />
 </p>
 
 ---
 
-⭐ *“Strive for progress, not perfection.”*
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffhelmi05&theme=tokyonight" height="160px" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://instagram.com/koyajoestar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/keyunah" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">✨ Fun Fact</h2>
+
+<p align="center">“Strive for progress, not perfection.”</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
