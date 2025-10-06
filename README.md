@@ -1,52 +1,75 @@
-# Hi👋 I'm a second year student at Universiti Teknologi Malaysia (UTM) 
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Muhammad Aliff Bin Helmi</h1>
+<h3 align="center">🎓 Data Engineering Student | Universiti Teknologi Malaysia (UTM)</h3>
+<h4 align="center">Passionate about managing data, learning frontend development, and building creative digital solutions.</h4>
 
-<h1 align="center">I'm MUHAMMAD ALIFF BIN HELMI</h1>
-<h3 align="center">Currently at Universiti Teknologi Malaysia! I'm a Data Engineering students that really passionate about managing data and learning how to set-up a frontend program.</h3>
+---
 
-# About Me !
+### 🌱 About Me  
 
-- 🌾 Live in Kedah
+- 🏡 From **Kedah, Malaysia**  
+- ⚔️ I love playing **video games** in my free time  
+- 🎂 **Birthday:** 13 December  
+- 📚 **Currently Studying:**  
+  - Digital Logic  
+  - Discrete Structure  
+  - Programming Language  
+  - Technology & Information Systems  
+- 💻 **Currently Learning:**  
+  - C++  
+  - Python  
+  - JavaScript  
+- 📫 Reach me at: **aliffhelmi05@gmail.com**
 
-- ⚔️ Likes to play video games 
+---
 
-- 🔭 I’m currently studying
+### 🎓 Education  
 
-  - [Digital Logic]
-  - [Discrete Structure]
-  - [Programming Language]
-  - [Technology Informatic System]
+- **Primary School:** Sekolah Kebangsaan Darulaman Heights  
+- **Secondary School:** Sekolah Menengah Sultan Abdul Halim  
+- **Foundation:** Kolej MARA Kuala Nerang  
+- **Bachelor’s Degree:** Universiti Teknologi Malaysia (Data Engineering)  
 
-- 🌱 I’m currently learning
+---
 
-  - [C++]
-  - [Phyton]
-  - [JavaScript]
+### 🤝 Connect with Me  
 
-- 🎉 Birthday on 13 December
-
-- 📫 How to reach me **aliffhelmi05@gmail.com**
-
-# 🎓 Education Background
-
-- Primary School
-  -- Sekolah Kebangsaan Darulaman Heights
-
-- Secondary School
-  -- Sekolah Menengah Sultan Abdul Halim
-
-- Foundation
-  -- Kolej Mara Kuala Nerang
-
-- Bachelor Degree
-  -- Universiti Teknologi Malaysia (Data Engineering)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/koyajoestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyajoestar" height="30" width="40" /></a>
-<a href="https://discord.gg/keyunah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keyunah" height="30" width="40" /></a>
+<a href="https://instagram.com/koyajoestar" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30"/>
+</a>
+<a href="https://discord.gg/keyunah" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="30"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&locale=en" alt="aliffhelmi05" /></p>
+### 🛠️ Languages & Tools  
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&theme=tokyonight" alt="aliffhelmi05" />
+</p>
+
+---
+
+⭐ *“Strive for progress, not perfection.”*
