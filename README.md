@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Aliff+Bin+Helmi;Data+Engineering+Student+at+UTM;Aspiring+Data+Engineer+%7C+Frontend+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=28&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Muhammad+Aliff+Bin+Helmi;Data+Engineering+Student+at+UTM;Aspiring+Data+Engineer+%7C+Frontend+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
