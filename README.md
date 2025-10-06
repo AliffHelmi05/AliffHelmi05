@@ -64,10 +64,6 @@
 
 ---
 
-<h2 align="center">✨ Fun Fact</h2>
-
-<p align="center">“Strive for progress, not perfection.”</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
