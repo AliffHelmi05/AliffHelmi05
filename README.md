@@ -1,6 +1,4 @@
-# Welcome to Aliff Workplace!
-
-Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) 
+# Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) 
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ALIFF BIN HELMI</h1>
 <h3 align="center">First Year Students, currently at Universiti Teknologi Malaysia! I'm a Data Engineering students that really passionate about managing data and learning how to set-up a frontend program.</h3>
