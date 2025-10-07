@@ -12,10 +12,11 @@
 - ⚔️ **Hobby:** Playing video games  
 - 🎂 **Birthday:** 13 December  
 - 📚 **Currently Studying:**
-  - Digital Logic  
-  - Discrete Structure  
-  - Programming Language  
-  - Technology & Information Systems  
+  - Software Engineering(WBL)
+  - Database(WBL)
+  - System Development Technology(WBL)
+  - Data Structure and Algorithm
+  - Network Communication
 - 🧠 **Learning:**
   - C++  
   - Python  
@@ -63,6 +64,4 @@
   </a>
 </p>
 
----
 
-<h2 align="center">🚀 Featured P
