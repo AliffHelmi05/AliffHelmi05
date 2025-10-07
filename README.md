@@ -8,31 +8,37 @@
 <h2 align="center">🌱 About Me</h2>
 
 - 🎓 **Second-Year Data Engineering Student** at [Universiti Teknologi Malaysia (UTM)]  
-- 🏡 **From:** Kedah, Malaysia  
-- ⚔️ **Hobby:** Playing video games  
+- 🌾 From **Kedah, Malaysia**  
+- ⚔️ Love playing **video games** during free time  
 - 🎂 **Birthday:** 13 December  
-- 📚 **Currently Studying:**
-  - Software Engineering(WBL)
-  - Database(WBL)
-  - System Development Technology(WBL)
-  - Data Structure and Algorithm
-  - Network Communication
-- 🧠 **Learning:**
-  - C++  
-  - Python  
-  - JavaScript  
-- 📫 **Reach me at:** [aliffhelmi05@gmail.com](mailto:aliffhelmi05@gmail.com)
+- 📧 **Email:** [aliffhelmi05@gmail.com](mailto:aliffhelmi05@gmail.com)
 
 ---
 
-<h2 align="center">🎓 Education Background</h2>
+## 📘 Currently Studying
+- Software Engineering (WBL)  
+- Database (WBL)  
+- System Development Technology (WBL)  
+- Data Structure and Algorithm  
+- Network Communication  
+
+---
+
+## 🌱 Currently Learning
+- 💻 **C++**
+- 🐍 **Python**
+- 🌐 **JavaScript**
+
+---
+
+## 🎓 Education Background
 
 | Level | Institution |
 |--------|-------------|
-| 🏫 Primary | Sekolah Kebangsaan Darulaman Heights |
-| 🏫 Secondary | Sekolah Menengah Sultan Abdul Halim |
-| 🎓 Foundation | Kolej MARA Kuala Nerang |
-| 🎓 Bachelor’s | Universiti Teknologi Malaysia (Data Engineering) |
+| Primary School | Sekolah Kebangsaan Darulaman Heights |
+| Secondary School | Sekolah Menengah Sultan Abdul Halim |
+| Foundation | Kolej MARA Kuala Nerang |
+| Bachelor’s Degree | Universiti Teknologi Malaysia (Data Engineering) |
 
 ---
 
